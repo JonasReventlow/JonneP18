@@ -4,7 +4,7 @@
 I am particularly interested in the interdisciplinary element, where archeology collaborates and contributes to other professions.
 
 - 🌱 I’m currently learning archaeological related knowledge. Especially with a focus on museology, evolution and archeological theory. 
-In an IT perspective, most of the learning goes on C# and Python as it is related to my work and hobbies. 
+In the IT perspective, most of the learning goes on in C# and Python as it is related to my work and hobbies. 
 
 - 💞️ I’m looking foward to work on software and hardware development as are part of scientific projects.
 So far, I have tried my hand at game development in Unity, where archeology is responsible for giving the game a historical credibility.
