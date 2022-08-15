@@ -7,9 +7,9 @@ I am particularly interested in the interdisciplinary element, where archeology 
 In the IT perspective, most of the learning goes on in C# and Python as it is related to my work and hobbies. 
 
 - 💞️ I’m looking foward to work on software and hardware development as are part of scientific projects.
-So far, I have tried my hand at game development in Unity, where archeology is responsible for giving the game a historical credibility.
-In addition, I have focused on language technology and frequency analysis
-I want to start focusing on categorizing and optimizing of image and object recognition and the use of programming in our understanding of evolution from an archaeological perspective
+So far, I have tried my game development in Unity, where archeology is responsible for giving the game a historical credibility.
+In addition, I have focused on language technology and frequency analysis using Anaconda
+I want to start focusing on work with categorizing and optimizing of image and object recognition and the use of programming in our understanding of evolution from an archaeological perspective.
 
 
 - 📫 How to reach me:
